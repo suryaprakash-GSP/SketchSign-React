@@ -2,7 +2,8 @@
 
 SketchSign: A React-based app with HTML5 Canvas, enabling seamless drawing and JPG download functionalities. Perfect for digital artists and professionals seeking a streamlined signing experience.
 Tech -stack: React, Tailwind CSS 
-https://raw.githubusercontent.com/suryaprakash-GSP/SketchSign-React/master/01Preview.png
+
+![Alt Text](https://raw.githubusercontent.com/suryaprakash-GSP/SketchSign-React/master/01Preview.png)
 
 Steps to initialize:
   1. Clone or download the zip in your PC
